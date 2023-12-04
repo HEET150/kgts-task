@@ -1,0 +1,12 @@
+/* Projects.css */
+.projects-container {
+    padding: 50px;
+    background-color: #e0e0e0;
+  }
+  .project-container {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: grey;
+  }
+  
